@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Valeriia 👋
 
-<!--
-**ValeriaZav26/ValeriaZav26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science master's student at **Sookmyung Women's University** (Seoul), with a background in economics. I build machine learning models end to end — from data cleaning and EDA to model selection, evaluation and business conclusions — and I'm growing towards **NLP and LLM** applications.
 
-Here are some ideas to get you started:
+- 🔎 Looking for an **ML / Data Science internship** (remote)
+- 🌏 Languages: Russian (native), English (B2), Korean (C2)
+- 📫 Telegram: [@grape_vinegar](https://t.me/grape_vinegar) · Email: valeriavesna26@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+
+**Python** · pandas · NumPy · scikit-learn · XGBoost · TensorFlow / Keras · SciPy · SQL · Matplotlib · Seaborn · Git · Jupyter / Colab
+
+## 📌 Projects
+
+| Project | What it shows | Result |
+| :--- | :--- | :--- |
+| [Customer Churn Prediction](https://github.com/ValeriaZav26/customer-churn-prediction) | sklearn Pipeline, GridSearchCV, class imbalance, overfitting control | XGBoost, ROC-AUC 0.83 |
+| [CelebA Multi-Task Classification](https://github.com/ValeriaZav26/CelebA-Face-Attributes-Multi-task-Gender-Young-Classification) | Transfer learning (MobileNetV2), multi-task CNN, error analysis | Accuracy 94.2% (gender), 85.6% (age group) |
+| [Amazon Products EDA](https://github.com/ValeriaZav26/amazon-products-eda) | Hypothesis testing, non-parametric statistics, review text n-grams | 4 hypotheses tested |
+| [Book Store Web Scraper](https://github.com/ValeriaZav26/books-web-scraping-analysis) | requests + BeautifulSoup, data cleaning, EDA | ~1,000 books from 50 pages |
+
+## 📜 Certificates
+
+IBM Data Science Professional Certificate (Coursera, 2026)
