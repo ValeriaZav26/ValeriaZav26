@@ -1,6 +1,6 @@
 # Hi, I'm Valeriia 👋
 
-Data Science master's student at **Sookmyung Women's University** (Seoul), with a background in economics. I build machine learning models end to end — from data cleaning and EDA to model selection, evaluation and business conclusions — and I'm growing towards **NLP and LLM** applications.
+Data Science master's student at **Sookmyung Women's University** (Seoul), with a bachelor's degree in Economics. I build machine learning models end to end — from data cleaning and EDA to model selection, evaluation and business conclusions — and I'm growing towards **NLP and LLM** applications.
 
 - 🔎 Looking for an **ML / Data Science internship** (remote)
 - 🌏 Languages: Russian (native), English (B2), Korean (C2)
